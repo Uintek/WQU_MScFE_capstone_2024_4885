@@ -2,6 +2,8 @@
 Here is the source code of the capstone project, intended for the MScFE program from WorldQuant University. The student group number is 4885.
 Final Project Paper is also attached for the reference.
 
+Dataset file of "datasets_capstone_4885.csv" is required to access the additional economic indicators like the GDP growth rate, interest rate, unemployment rate and inflation rate to perform bivariate and multivariate analysis.
+
 Authors: Win Htet, Hnin Oo Wai
 
 Instructor: Professor Joe Byers
