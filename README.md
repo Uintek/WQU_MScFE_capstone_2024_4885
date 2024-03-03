@@ -10,7 +10,7 @@ Instructor: Professor Joe Byers
 
 WorldQuant University, MScFE Program
 
-winhtet2911@gmail.com; hninoowai2911@gmail.com joe.byers@wqu.edu
+winhtet2911@gmail.com, hninoowai2911@gmail.com; joe.byers@wqu.edu
 
 Disclaimer: This paper was created as part of a WorldQuant University degree program towards an MSc in Financial Engineering.
 
